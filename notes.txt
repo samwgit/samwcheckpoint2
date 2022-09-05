@@ -1,0 +1,37 @@
+// if (autoClick.navi.quantity > 1) {
+//   rupee -= autoClick.navi.price
+//   setInterval(naviClick, 3000)
+//   autoClick.navi.quantity++
+//   autoClick.navi.price += 600
+//   // @ts-ignore
+//   document.getElementById('rupeeCount').innerText = rupee
+// } else {
+//   window.alert('Yeah No Buddy')
+// }
+
+// @ts-ignore
+// document.getElementById('rupeeCount') = rupee
+
+//  NOTE to replace rupee
+// function test() {
+//   // @ts-ignore
+//   redRupeeElem.src = "/resources/red_rupee.png"
+
+// TODO I want this to when clicker is upgraded increase the function greenClick rupee gain by 5
+// function upgradeClicker() {
+//   rupee += greenClick
+//   // @ts-ignore
+//   document.getElementById('rupeeCount').innerText = rupee
+//   if (rupee >= upgradeCost) {
+//     rupee -= 50
+
+// NOTE put this in your if statement to do multiple checks
+// && r.bought == true
+
+//     // @ts-ignore
+//     document.getElementById('rupeeCount').innerText = rupee
+//   }
+//   else {
+//     window.alert("You're too poor")
+//   }
+// }
